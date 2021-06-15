@@ -2,6 +2,13 @@
 - Multivendor E-Commerce Platform. 
 #Developed by - https://github.com/sanscript-tech
 
+Website Developed using Node js, Express js, Mongo DB, React js, Redux js.
+Application Developed using Flutter & Dart.
+
+Website - khajana.co
+Play Store - https://play.google.com/store/apps/details?id=com.bd.khajana
+App Store - Coming soon
+
 #Developers - 
 
 1. https://github.com/yubhav
